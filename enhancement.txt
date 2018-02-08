@@ -1,0 +1,9 @@
+#1. Support color
+#2. Support debug log runtime change
+#3. Support construct runtime pipeline
+#4. Support log redirection
+#5. set property
+#6. list pipeline
+7. show element RANK
+8. list threads & memeory infor 
+#9. recursively list & set element
